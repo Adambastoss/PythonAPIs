@@ -18,4 +18,4 @@ for cep in ceps:
                          f"{payload['complemento']}\n")
         
 for registro in registros:
-    print(registros)
+    print(registro)
