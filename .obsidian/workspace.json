@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXTRA NOTES/NOTES.md",
+                "file": "FLASK/MONGO DB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NOTES"
+              "title": "MONGO DB"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "43e9469a631fecec",
@@ -174,23 +175,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "3d5e86ee4864d545",
   "lastOpenFiles": [
-    "Scripts/viacep.py",
-    "Scripts",
     "SEQUENCE/REQUESTS class.md",
+    "FLASK/MONGO DB.md",
+    "Untitled.md",
+    "FLASK",
+    "Scripts/venv/lib/python3.13/site-packages/pymongo-4.16.0.dist-info/REQUESTED",
+    "Scripts/venv/lib/python3.13/site-packages/pymongo-4.16.0.dist-info/INSTALLER",
+    "Scripts/venv/lib/python3.13/site-packages/pymongo/__pycache__/write_concern.cpython-313.pyc",
+    "Scripts/venv/lib/python3.13/site-packages/pymongo/__pycache__/uri_parser_shared.cpython-313.pyc",
+    "Scripts/venv/lib/python3.13/site-packages/pymongo/__pycache__/uri_parser.cpython-313.pyc",
+    "Scripts/venv/lib/python3.13/site-packages/pymongo/__pycache__/typings.cpython-313.pyc",
+    "Scripts/venv/lib/python3.13/site-packages/pymongo/__pycache__/topology_description.cpython-313.pyc",
+    "Scripts/venv/lib/python3.13/site-packages/pymongo/synchronous/__pycache__/uri_parser.cpython-313.pyc",
+    "Scripts/venv/lib/python3.13/site-packages/pymongo/synchronous/__pycache__/topology.cpython-313.pyc",
     "EXTRA NOTES/NOTES.md",
-    "EXTRA NOTES",
-    "METHODS - REQUESTS",
-    "SEQUENCE"
+    "Scripts/venv/lib/python3.13/site-packages/flask/sansio/README.md",
+    "Scripts/venv/lib/python3.13/site-packages/werkzeug/debug/shared/more.png",
+    "Scripts/venv/lib/python3.13/site-packages/werkzeug/debug/shared/less.png",
+    "Scripts/venv/lib/python3.13/site-packages/werkzeug/debug/shared/console.png",
+    "Scripts/venv/lib/python3.13/site-packages/werkzeug/debug/shared/ICON_LICENSE.md"
   ]
 }

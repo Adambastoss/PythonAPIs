@@ -13,3 +13,5 @@
 >>> dir(requests
 
 
+#### Creating requirements.txt
+**pip freeze > requirements.txt**
