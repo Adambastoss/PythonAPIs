@@ -9,7 +9,15 @@ def get_conn(database):
     return client.get_database(database)
 
 @app.route("/users", methods=["GET"])
-
+def get_users():
+    db = get_conn('pessoa')
+    users = [
+        {
+            'username': user.get('username'),
+            'password': user.get('password'),
+            'name': user.get('name')
+        } for user in db.users.find()
+    ]
 
 
 @app.route("/", methods=["GET"])
