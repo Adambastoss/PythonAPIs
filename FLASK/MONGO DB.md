@@ -18,4 +18,11 @@
 
 
 
+##### Running mongo container with docker
+`docker run --name mongodb -d mongo:latest`
 
+Access mongo container filesystem
+`docker exec -it mongodb bash`
+
+Access mongo shell
+`mongosh`
