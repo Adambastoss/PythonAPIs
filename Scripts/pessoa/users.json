@@ -1,4 +1,6 @@
 [
-{"username": "adambastoss", "password": "123456", "_id": {"$oid": "69ce88083d7705cb4f664cd5"}},
-{"username": "caliiibre12", "password": "123456", "name": "Adam Bastos Santos", "_id": {"$oid": "69ce88613d7705cb4f664cd6"}}
+{"username": "adambastoss", "password": "123456", "name": "Adam Bastos Santos", "_id": {"$oid": "69cfd894c27d7ed4259237e8"}},
+{"username": "juniorbaiano", "password": "123456", "name": "Junior Baiano", "_id": {"$oid": "69cfdb57c27d7ed4259237e9"}},
+{"username": "fabiocosta", "password": "123456", "name": "Fabio Costa", "_id": {"$oid": "69cfeb8167864e0bdbfc9740"}},
+{"username": "ricardonunes", "password": "123456", "name": "Ricardo Nunes", "_id": {"$oid": "69cfec1bf7cd292754b7f98a"}}
 ]

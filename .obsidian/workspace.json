@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FLASK/MONGO DB.md",
+                "file": "FLASK/BLUEPRINT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MONGO DB"
+              "title": "BLUEPRINT"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "43e9469a631fecec",
@@ -174,38 +175,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "3d5e86ee4864d545",
   "lastOpenFiles": [
-    "Scripts/venv/Lib/site-packages/pip/_vendor/msgpack/__pycache__/ext.cpython-313.pyc",
-    "Scripts/venv/Lib/site-packages/pip/_vendor/msgpack/__pycache__/exceptions.cpython-313.pyc",
-    "Scripts/venv/Lib/site-packages/pip/_vendor/msgpack/__pycache__/fallback.cpython-313.pyc",
-    "Scripts/venv/Lib/site-packages/pip/_vendor/msgpack/__pycache__/__init__.cpython-313.pyc",
-    "Scripts/venv/Lib/site-packages/pip/_vendor/msgpack/__pycache__",
-    "Scripts/venv/Lib/site-packages/pip/_internal/network/__pycache__/xmlrpc.cpython-313.pyc",
-    "Scripts/venv/Lib/site-packages/pip/_internal/network/__pycache__/__init__.cpython-313.pyc",
-    "Scripts/venv/Lib/site-packages/pip/_internal/network/__pycache__/utils.cpython-313.pyc",
-    "Scripts/venv/Lib/site-packages/pip/_internal/network/__pycache__/session.cpython-313.pyc",
-    "Scripts/venv/Lib/site-packages/pip/_internal/network/__pycache__/lazy_wheel.cpython-313.pyc",
-    "Scripts/venv/Lib/site-packages/pip/_internal/network/__pycache__/download.cpython-313.pyc",
+    "FLASK/CONTAINERS.md",
+    "FLASK/BLUEPRINT.md",
+    "FLASK/CRUD requests curl.md",
+    "FLASK/JINJA.md",
+    "FLASK/MONGO DB.md",
+    "Scripts/projectfk/blueprint/__pycache__/read_users.cpython-313.pyc.128686177221520",
+    "Scripts/projectfk/templates/users.html",
+    "Scripts/projectfk/views/users.html",
+    "Scripts/projectfk/views",
+    "Scripts/projectfk/templates/base.html",
+    "Scripts/projectfk/blueprint/__pycache__/find_username.cpython-313.pyc",
+    "Scripts/projectfk/blueprint/find_username.py",
+    "Scripts/projectfk/templates",
+    "Untitled.md",
+    "Untitled",
+    "Scripts/projectfk/blueprint/__pycache__/read_users.cpython-313.pyc",
+    "FLASK/UPDATE.md",
+    "FLASK/INSERT.md",
+    "FLASK/DELETE.md",
+    "Untitled 1.md",
+    "REQUESTS class.md",
+    "EXTRA NOTES/NOTES.md",
     "Scripts/venv/Lib/site-packages/flask/sansio/README.md",
     "Scripts/venv/Lib/site-packages/werkzeug/debug/shared/more.png",
     "Scripts/venv/Lib/site-packages/werkzeug/debug/shared/less.png",
     "Scripts/venv/Lib/site-packages/werkzeug/debug/shared/ICON_LICENSE.md",
     "Scripts/venv/Lib/site-packages/werkzeug/debug/shared/console.png",
     "Scripts/venv/Lib/site-packages/idna-3.11.dist-info/licenses/LICENSE.md",
-    "SEQUENCE/REQUESTS class.md",
-    "FLASK/MONGO DB.md",
-    "Untitled.md",
-    "EXTRA NOTES/NOTES.md",
     "Scripts/venv/lib/python3.13/site-packages/flask/sansio/README.md",
     "Scripts/venv/lib/python3.13/site-packages/werkzeug/debug/shared/more.png",
     "Scripts/venv/lib/python3.13/site-packages/werkzeug/debug/shared/less.png",

@@ -7,12 +7,15 @@
 **client = montydb.MontyClient()**
 
 #### Creating a new database
-**db = client.get_database('*namedb*')**
+**db = client.get_database('*pessoa*')**
 
 #### Creating a new collection
-**db.*name_collection*.insert_one({'username': '*nameuser*', 'password': '*passuser*' })**
+**db.*users*.insert_one({'username': '*adambastoss*', 'password': '*123456*' ,  'name': 'Adam Bastos'})**
 
 #### Consulting all records
 **for registro in db.users.find():**
 	**print(registro)**
+
+
+
 
