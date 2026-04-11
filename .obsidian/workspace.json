@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "529f29dee22aaf26",
+        "id": "64dfdda34225521d",
         "type": "tabs",
         "children": [
           {
-            "id": "891d09271223fe31",
+            "id": "1b55e357e341a3fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,11 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "891d09271223fe31",
+  "active": "1b55e357e341a3fe",
   "lastOpenFiles": [
+    "CONTEINERS/DOCKER-COMPOSE.md",
+    "CONTEINERS/MultiStageBuilding.md",
+    "Scripts/requirements.txt",
+    "CONTEINERS/NETWORKING.md",
     "CONTEINERS/VOLUMES.md",
-    "CONTEINERS/CONTEINERIZING.md",
     "CONTEINERS/DOCKER - COMMANDS.md",
+    "CONTEINERS/CONTEINERIZING.md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
     "FLASK/BLUEPRINT.md",
     "FLASK/MONGO DB.md",
@@ -204,7 +209,6 @@
     "Scripts/projectfk/blueprint/__pycache__/find_username.cpython-313.pyc",
     "Scripts/projectfk/blueprint/find_username.py",
     "Scripts/projectfk/templates",
-    "Scripts/projectfk/blueprint/__pycache__/read_users.cpython-313.pyc",
     "FLASK/UPDATE.md",
     "FLASK/INSERT.md",
     "FLASK/DELETE.md",

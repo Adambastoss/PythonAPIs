@@ -43,3 +43,11 @@ create .dockerignore
 	|--venv/
 	|--__pycache__
 	|--dockerfile
+
+
+##### AFTER MODIFYING THE DOCKERFILE, RUN THE COMMAND
+`docker build -t flaskapp .`
+
+##### CHECK THE CONTAINER LOGS
+`docker logs -f flaskapp1`
+

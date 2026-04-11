@@ -19,3 +19,5 @@ Removing docker container
 Removing docker image
 `docker image rm mongodb`
 
+Inpect container infos
+`docker container inspect flaskapp1`
